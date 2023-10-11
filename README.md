@@ -1,2 +1,2 @@
 # study-materials
-# study-materials
+ Presentations, books, and other study materials.
